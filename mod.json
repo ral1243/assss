@@ -1,0 +1,10 @@
+{
+  "displayName": "this is dumb 1",
+  "name": "rally-1-mally",
+  "author": "[blue]mally",
+  "description": "[red]this aint good",
+  "version": "1.0",
+  "minGameVersion": "146",
+  "dependencies": [],
+  "hidden": false
+}
