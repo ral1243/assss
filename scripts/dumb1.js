@@ -1,6 +1,6 @@
 Events.on(BlockDestroyEvent, event => {
     if(event.tile.build.block == Blocks.thoriumReactor){
-      Vars.ui.hudfrag.showToast("reactor down");
+      Vars.ui.hudfrag.showToast("thorium down");
     }
   })
   Events.on(BlockDestroyEvent, event => {
