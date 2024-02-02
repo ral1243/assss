@@ -1,0 +1,24 @@
+{
+  "type": "ItemTurret",
+  "squareSprite": false,
+  "outlineColor": "4284f5",
+  "size": 1,
+  "health": 100,
+  "reload": 10,
+  "range": 100,
+  "maxAmmo": 20,
+  "recoil": 1.5,
+  "rotateSpeed": 2.5,
+  "shootSound": "bang",
+  "drawer": {
+    "type": "drawTurret"
+  }
+  "ammoTypes": {
+    "copper": {
+      "type": "BasicBulletType",
+      "absorbable": true,
+
+    }
+  }
+
+}
