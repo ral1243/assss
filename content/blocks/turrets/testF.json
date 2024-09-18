@@ -13,7 +13,7 @@
   "ammoTypes": {
     "copper": {
       "type": "BasicBulletType",
-      "absorbable": true,
+      "absorbable": true
 
 
     }
